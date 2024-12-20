@@ -56,7 +56,7 @@ The **Facial Demographics Prediction System** is a deep learning-based project a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/facial-demographics-prediction.git
+   git clone https://github.com/namanomar/facial-demographics-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
